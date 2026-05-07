@@ -4,4 +4,4 @@
 1.Element_1 1.Element2 1.Element3 1.Element4 1.Element4a 1.Element4b
 **To jest tekst pogrubiony** *, a ten kursywą.*
 
-dodaję opsi do pliku Readme.md z uwagi na punkt 6 zadania...
+dodaję opsi do pliku Readme.md z uwagi na punkt 6 zadania, a tutuaj komentarz do pkt 9
