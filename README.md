@@ -1,4 +1,4 @@
-#konflikt test
+#konflikt test22222
 # moje-pierwsze-repo
 ## Uczelnia ALK
 *Punkt listy puntkowanej_1 *Punkt listy punktowanej_2 *Punkt listy punktowanej_3 *Punkt listy punktowanej_4
